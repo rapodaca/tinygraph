@@ -65,5 +65,5 @@ possible. Patch versions never introduce breaking changes.
 
 # License
 
-Gamma is distributed under the terms of the MIT License. See
+Tinygraph is distributed under the terms of the MIT License. See
 [LICENSE-MIT](LICENSE-MIT) and [COPYRIGHT](COPYRIGHT) for details.
